@@ -1,0 +1,40 @@
+h1 {
+	text-shadow: 2px 2px;
+}
+p {
+	font-style: italic;
+}
+body {
+	background-color: grey;
+}
+a {
+	padding-right: 10px;
+	text-align: center;
+}
+img {
+	height: 150px;
+	width: 170px;
+}
+span {
+	display: inline-block;
+	width: 20%;
+	height: 20%;
+    border: solid;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+}
+.heading {
+	text-align: center;
+}
+.content {
+	text-align: center;
+}
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+.footer {
+	text-align: center;
+}
